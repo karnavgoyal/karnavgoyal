@@ -38,55 +38,78 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,vscode,linux,mysql,html,css,js" />
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Web & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Currently Learning
+
+<table>
+  <tr>
+    <td><b>Focus Area</b></td>
+    <td>Data Structures & Algorithms (Java)</td>
+  </tr>
+  <tr>
+    <td><b>Status</b></td>
+    <td>Building from fundamentals toward advanced problem-solving</td>
+  </tr>
+  <tr>
+    <td><b>Practice</b></td>
+    <td>Solving problems consistently on LeetCode</td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karnavgoyal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Karnav's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnavgoyal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karnavgoyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnavgoyal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karnavgoyal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karnavgoyal&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karnavgoyal&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karnavgoyal&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karnavgoyal&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=karnavgoyal&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karnavgoyal&theme=redical" alt="Contribution Graph" />
-</p>
-
----
-
-### 👁️ Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karnavgoyal&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 💬 Quote
-
-> Code. Learn. Build. Repeat. 🚀
-
-<h4 align="center">Thanks for visiting! Feel free to connect and let's grow together. 🤝</h4>
+<p align="center"><i>Open to internships, collaborations, and interesting problems to solve.</i></p>
